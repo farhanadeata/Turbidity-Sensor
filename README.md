@@ -15,7 +15,8 @@
 <br>
 Full Code Contact Me
 
-[![Contact Me](https://img.shields.io/badge/Contact%20Me-email-red?logo=gmail&logoColor=red)](mailto:fadeatalarik@gmail.com)
+[![Contact Me](https://img.shields.io/badge/Contact%20Me-email-blue?logo=gmail&logoColor=white)](mailto:fadeatalarik@gmail.com)
+
 
 # 📡 Arduino Project: [Water Quality with Arduino and Turbidity Sensor]
 
