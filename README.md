@@ -12,6 +12,8 @@
     
   <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="License">
 </p>
+<br>
+Full Code Contact Me
 
 [![Contact Me](https://img.shields.io/badge/Contact%20Me-email-red?logo=gmail&logoColor=red)](mailto:fadeatalarik@gmail.com)
 # 📡 Arduino Project: [Water Quality with Arduino and Turbidity Sensor]
